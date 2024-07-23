@@ -1,6 +1,6 @@
 package com.proyecto.ivan;
 
-import com.proyecto.ivan.model.Empresa;
+import com.proyecto.ivan.entities.Empresa;
 import com.proyecto.ivan.repository.EmpresaRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

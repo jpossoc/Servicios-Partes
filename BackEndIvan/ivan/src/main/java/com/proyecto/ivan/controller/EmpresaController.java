@@ -4,8 +4,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import com.proyecto.ivan.repository.EmpresaRepository;
-import com.proyecto.ivan.model.Empresa;
+
+import com.proyecto.ivan.entities.Empresa;
 import com.proyecto.ivan.service.EmpresaService;
 
 @RestController

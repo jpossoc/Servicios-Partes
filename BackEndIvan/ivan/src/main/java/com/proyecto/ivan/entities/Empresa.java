@@ -1,4 +1,4 @@
-package com.proyecto.ivan.model;
+package com.proyecto.ivan.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -2,7 +2,7 @@ package com.proyecto.ivan;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.proyecto.ivan.controller.EmpresaController;
-import com.proyecto.ivan.model.Empresa;
+import com.proyecto.ivan.entities.Empresa;
 import com.proyecto.ivan.service.EmpresaService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
